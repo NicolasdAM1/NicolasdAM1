@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá! Chamo-me Nicolas de Antoni Mendes 👋
 
-<!--
-**NicolasdAM1/NicolasdAM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou atualmente estudante de Engenharia de Software pela UEPG. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias e Ferramentas
+
+Aqui estão as principais ferramentas e linguagens com as quais eu trabalho:
+
+| Categoria | Tecnologias/Linguagens |
+| :--- | :--- |
+| **Linguagens** | `JavaScript` |
+| **Backend** | `Node.js`, `Express` |
+| **Banco de Dados** | `MongoDB` |
+| **Ferramentas** | `Git`, `VS Code` |
+
+---
+
+## 🌱 O que estou aprendendo agora
+
+
+---
+
+## 🚀 Projetos em Destaque
+
+
+---
+
+## 📬 Fale Comigo
+
+Se você quiser trocar uma ideia, discutir tecnologia, ou falar sobre oportunidades:
+
+* **LinkedIn:** []
+* **Email:** [nicoantoni15@gmail.com]
+
+Você também pode me encontrar por aí:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasdAM1&show_icons=true&theme=radical)](https://github.com/NicolasdAM1)
