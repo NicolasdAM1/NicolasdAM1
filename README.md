@@ -31,7 +31,7 @@ Aqui estão as principais ferramentas e linguagens com as quais eu trabalho:
 
 Se você quiser trocar uma ideia, discutir tecnologia, ou falar sobre oportunidades:
 
-* **LinkedIn:** []
+* **LinkedIn:** [www.linkedin.com/in/nicolasdam1]
 * **Email:** [nicoantoni15@gmail.com]
 
 Você também pode me encontrar por aí:
