@@ -19,6 +19,7 @@ Aqui estão as principais ferramentas e linguagens com as quais eu trabalho:
 
 ## 🌱 O que estou aprendendo agora
 
+Agora estou aprendendo de forma autodidata principalmente Python e Java. Além de melhorar os conceitos já aprendidos em C e JavaScript.
 
 ---
 
