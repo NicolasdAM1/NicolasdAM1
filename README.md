@@ -35,5 +35,5 @@ Se você quiser trocar uma ideia, discutir tecnologia, ou falar sobre oportunida
 * **LinkedIn:** [www.linkedin.com/in/nicolasdam1]
 * **Email:** [nicoantoni15@gmail.com]
 
-Você também pode me encontrar por aí:
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicolasdAM1&show_icons=true&theme=radical)](https://github.com/NicolasdAM1)
