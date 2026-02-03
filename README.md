@@ -10,16 +10,14 @@ Aqui estão as principais ferramentas e linguagens com as quais eu trabalho:
 
 | Categoria | Tecnologias/Linguagens |
 | :--- | :--- |
-| **Linguagens** | `JavaScript` |
-| **Backend** | `Node.js`, `Express` |
-| **Banco de Dados** | `MongoDB` |
-| **Ferramentas** | `Git`, `VS Code` |
+| **Linguagens** |`Python´, `C´, `JavaScript` |
+| **Ferramentas** | `Git`, `Google Colab`, `Power BI´ |
 
 ---
 
 ## 🌱 O que estou aprendendo agora
 
-Agora estou aprendendo de forma autodidata principalmente Python e Java. Além de melhorar os conceitos já aprendidos em C e JavaScript.
+Agora estou aprendendo de forma autodidata principalmente Python. Além de melhorar os conceitos já aprendidos em C e JavaScript.
 
 ---
 
