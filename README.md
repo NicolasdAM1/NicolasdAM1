@@ -10,14 +10,8 @@ Aqui estão as principais ferramentas e linguagens com as quais eu trabalho:
 
 | Categoria | Tecnologias/Linguagens |
 | :--- | :--- |
-| **Linguagens** |`Python`, `C`, `JavaScript` |
-| **Ferramentas** | `Git`, `Google Colab`, `Power BI` |
-
----
-
-## 🌱 O que estou aprendendo agora
-
-Agora estou aprendendo de forma autodidata principalmente Python. Além de melhorar os conceitos já aprendidos em C e JavaScript.
+| **Linguagens** |`Python`, `C`, `Java`, `JavaScript` |
+| **Ferramentas** | `Git`, `Google Colab` |
 
 ---
 
